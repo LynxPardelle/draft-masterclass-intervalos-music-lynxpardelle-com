@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-intervalos.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Intervalos melódicos y armónicos | Lynx Pardelle",
+    "description": "Escucha y mide la distancia entre dos notas. Compara cómo se percibe un intervalo cuando las notas suenan de forma sucesiva o simultánea.",
+    "canonical": "https://masterclass-intervalos.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-teoria.webp"
+    }
+  }
+}
