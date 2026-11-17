@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Intervalos melódicos y armónicos | Lynx Pardelle",
-    "description": "Escucha y mide la distancia entre dos notas. Compara cómo se percibe un intervalo cuando las notas suenan de forma sucesiva o simultánea.",
+    "title": "Masterclass de intervalos melódicos y armónicos | Lynx Pardelle",
+    "description": "Aprende a identificar la distancia entre notas, la consonancia y los intervalos naturales y complementarios con ejemplos melódicos y armónicos.",
     "canonical": "https://masterclass-intervalos.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-intervalos-r2-4034de2f7fef41ca.webp",
+      "title": "Masterclass de intervalos melódicos y armónicos | Lynx Pardelle",
+      "description": "Aprende a identificar la distancia entre notas, la consonancia y los intervalos naturales y complementarios con ejemplos melódicos y armónicos.",
+      "url": "https://masterclass-intervalos.music.lynxpardelle.com/",
+      "imageAlt": "Dos manos preparan un intervalo en un teclado."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de intervalos melódicos y armónicos | Lynx Pardelle",
+      "description": "Aprende a identificar la distancia entre notas, la consonancia y los intervalos naturales y complementarios con ejemplos melódicos y armónicos.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-intervalos-r2-4034de2f7fef41ca.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-intervalos.music.lynxpardelle.com/#webpage",
+        "name": "Intervalos melódicos y armónicos",
+        "description": "Aprende a identificar la distancia entre notas, la consonancia y los intervalos naturales y complementarios con ejemplos melódicos y armónicos.",
+        "url": "https://masterclass-intervalos.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-intervalos.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-intervalos.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Intervalos melódicos y armónicos",
+        "description": "Aprende a identificar la distancia entre notas, la consonancia y los intervalos naturales y complementarios con ejemplos melódicos y armónicos.",
+        "url": "https://masterclass-intervalos.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-intervalos-r2-4034de2f7fef41ca.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-intervalos.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
